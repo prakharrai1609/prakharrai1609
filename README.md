@@ -3,7 +3,7 @@
 <h4 align="center"> I am a 20 year old CS Engineering student. I am self taught Full Stack Web dev in MERN stack and Flutter developer, I love to code and teach data structures and alogrithms.</h3>
 
 
-<h3>⚡ Some personal stuff about me 😉(If you know what i mean *wink wink*)</h3>
+<h3>⚡ Some personal stuff about me 😉</h3><h6> (If you know what i mean *wink wink*)</h6>
 <h4>🎄 I am a Jaipur citizen*</h4>
 
 <!--
