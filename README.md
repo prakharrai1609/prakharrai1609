@@ -3,8 +3,10 @@
 <h4 align="center"> I am a 20 year old CS Engineering student. I am self taught Full Stack Web dev in MERN stack and Flutter developer, I love to code and teach data structures and alogrithms.</h3>
 
 
-<h3>⚡ Some personal stuff about me 😉</h3><h6> (If you know what i mean *wink wink*)</h6>
+<h3>⚡ Some stuff about me 😉</h3>
 <h4>🎄 I am a Jaipur citizen*</h4>
+<h4>🎄 I am highly intrested in learning and exploring different algorithms</h4>
+<h4>🎄 I am intrestred in teaching</h4>
 
 <!--
 **prakharrai1609/prakharrai1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
