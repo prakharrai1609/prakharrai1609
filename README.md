@@ -8,8 +8,8 @@
 <h5>🎄 I am highly intrested in learning and exploring different algorithms</h5>
 <h5>🎄 I am intrestred in teaching</h5>
 
-<br>
-<h2 align="left">Want to find me?</h2>
+<br><br>
+<h1 align="left">Want to find me?</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/prakhar-rai-69095618b/" target="blank"><img src="https://img.icons8.com/color/50/000000/linkedin.png" /></a>
 <span>               </span>
