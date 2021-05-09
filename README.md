@@ -4,7 +4,7 @@
 
 
 # <h3 align="center">⚡ Some stuff about me 😉</h3>
-<h5>🎄 I am a Jaipur citizen*</h5>
+<h5>🎄 I am a Jaipur citizen</h5>
 <h5>🎄 I am highly intrested in learning and exploring different algorithms</h5>
 <h5>🎄 I am intrestred in teaching</h5>
 
