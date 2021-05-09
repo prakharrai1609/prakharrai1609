@@ -8,6 +8,12 @@
 <h4>🎄 I am highly intrested in learning and exploring different algorithms</h4>
 <h4>🎄 I am intrestred in teaching</h4>
 
+<h3 align="left">Want to find me?</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ekagrashukla" target="blank"><img src="https://img.icons8.com/color/50/000000/linkedin.png" /></a>
+  <span>         </span>
+<a href="https://instagram.com/shuklaekagra" target="blank"><img src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="shuklaekagra"/></a>
+</p>
 <!--
 **prakharrai1609/prakharrai1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
