@@ -1,7 +1,7 @@
 # Hey , there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakhar Rai
 <h3 align="center">I love problem solving and developing tools.</h3>
-<h4 align="center"> I am a 21 year old CSE undergrad student. I am self taught Full Stack Web dev in MERN stack , I love to code and teach data structures and alogrithms.</h4>
-
+<h4 align="center">I am a 21 year old CSE undergrad student. I am self taught Full Stack Web dev in MERN stack , I love to code and teach data structures and alogrithms.</h4>
+<!-- <h4 align="center"></h4> -->
 
 # <h3 align="center">⚡ Some stuff about me 😉</h3>
 <h5>🎄 I am a Jaipur citizen</h5>
