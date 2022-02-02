@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharrai1609&label=Profile%20views&color=0e75b6&style=flat" alt="prakharrai1609" /> </p>
 
+- 🌱 I’m currently learning **Front-end development in react.js and backend using node.js**
+
+- 💬 Ask me about **Data structures and algorithms and competitive programming. 😉**
+
+- 📫 How to reach me **I'm most active on my linkedin!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rai_prakhar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rai_prakhar16" height="30" width="40" /></a>
