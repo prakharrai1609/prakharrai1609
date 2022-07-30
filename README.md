@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Rai</h1>
-<h3 align="center">I love problem solving and developing tools. I am a 21 year old CSE undergrad student. I am self taught full Stack Web dev in MERN stack , I love to code and teach data structures and algorithms.</h3>
+<h3 align="center">About me? I'm passionate about problem solving and I love solving DSA problems on leetcode <img href="https://icon-icons.com/icon/leetcode-logo/145113"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharrai1609&label=Profile%20views&color=0e75b6&style=flat" alt="prakharrai1609" /> </p>
 
