@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Prakhar Rai</h1>
+<h1 align="center">Hey, I'm Prakhar Rai</h1>
 <h4 align="center">Trying to solve the problems in the world using code & coffee ☕️.</h4>
 <h6 align="center">SWE @PhysicsWallah 🦄 • Ex Cisco • Ex Interview Kickstart</h6>
+
+<h5>PW (PhysicsWallah):</h5>
+<ol>Developed and deployed APIs for a feature, optimizing for 10 million+ users. Created a code parser for Android frontend.</ol>
+<h6>Skills: Next.js, Docker, TypeScript, NestJS, Strapi.js, MongoDB, Django REST Framework, Node.js, React.js, Express.js.</h6>
+
+Interview Kickstart:
+Developed history panel and logger for tracking changes in an app. Served as Tech Lead for OpenAI project generating 3000+ articles. Integrated OpenAI APIs. Resolved product issues and improved code quality. Skills: Programming Languages, Postman API, Testing, Webflow, Back-End/Front-End Development, Django REST Framework, Django, Python, JavaScript, React.js.
+
+Cisco:
+Implemented "Remote Console Access" feature for routers. Created bash scripts and C programs for data transmission. Developed automation script and UART protocol using C for router communication. Skills: Programming Languages, Linux, Shell Scripting, Bash, C++, C.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharrai1609&label=Profile%20views&color=0e75b6&style=flat" alt="prakharrai1609" /> </p>
 
