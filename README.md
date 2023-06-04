@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prakhar Rai</h1>
-<h4 align="center">About me? I'm a former SDE intern @Cisco. I'm passionate about problem solving and I love solving DSA problems on Leetcode.</h4>
+<h4 align="center">Trying to solve the problems in the world using code & coffee ☕️.</h4>
+<h6 align="center">SWE @PhysicsWallah 🦄 • Ex Cisco • Ex Interview Kickstart</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharrai1609&label=Profile%20views&color=0e75b6&style=flat" alt="prakharrai1609" /> </p>
-
-- 🌱 I’m currently learning **front-end development in react.js and back-end in node.js**
-
-- 💬 Ask me about **Data structures and algorithms and competitive programming. 😉**
-
-- 📫 How to reach me **I'm most active on my linkedin!**
 
 - My <a href="https://drive.google.com/file/d/1jTb6aMFV01hTOWgLjyREe7KDO1YNN48v/view?usp=sharing"><b>resume</b></a>
 
