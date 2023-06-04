@@ -3,14 +3,22 @@
 <h6 align="center">SWE @PhysicsWallah 🦄 • Ex Cisco • Ex Interview Kickstart</h6>
 
 <h5>PW (PhysicsWallah):</h5>
-<ol>Developed and deployed APIs for a feature, optimizing for 10 million+ users. Created a code parser for Android frontend.</ol>
+<ol>📍Developed and deployed high-performance user and admin APIs for a new feature, prioritizing optimization for a vast user base of over 10 million users.</ol>
+<ol>📍Leveraging Kafka and Redis, I enhanced scalability, fault tolerance, and response times, ensuring efficient handling of concurrent requests.</ol>
 <h6>Skills: Next.js, Docker, TypeScript, NestJS, Strapi.js, MongoDB, Django REST Framework, Node.js, React.js, Express.js.</h6>
 
-Interview Kickstart:
-Developed history panel and logger for tracking changes in an app. Served as Tech Lead for OpenAI project generating 3000+ articles. Integrated OpenAI APIs. Resolved product issues and improved code quality. Skills: Programming Languages, Postman API, Testing, Webflow, Back-End/Front-End Development, Django REST Framework, Django, Python, JavaScript, React.js.
+<h5>Interview Kickstart:</h5>
+<ol>📍Developed history panel and logger for tracking changes in an app. Served as Tech Lead for OpenAI project generating 3000+ articles. Integrated OpenAI APIs.</ol>
+<ol>📍Resolved product issues and improved code quality.</ol>
+<h6>Skills: Programming Languages, Postman API, Testing, Webflow, Back-End/Front-End Development, Django REST Framework, Django, Python, JavaScript, React.js.</h6>
 
-Cisco:
-Implemented "Remote Console Access" feature for routers. Created bash scripts and C programs for data transmission. Developed automation script and UART protocol using C for router communication. Skills: Programming Languages, Linux, Shell Scripting, Bash, C++, C.
+<h5>Cisco:</h5>
+<ol>📍Implemented "Remote Console Access" feature for routers.</ol>
+<ol>📍Created bash scripts and C programs for data transmission.</ol>
+<ol>📍Developed automation script and UART protocol using C for router communication.</ol>
+<h6>Skills: Programming Languages, Linux, Shell Scripting, Bash, C++, C.</h6>
+
+<h3 align="left">Random stuff 👇</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharrai1609&label=Profile%20views&color=0e75b6&style=flat" alt="prakharrai1609" /> </p>
 
