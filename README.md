@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **I'm most active on my linkedin!**
 
-- My <a href="https://drive.google.com/file/d/1srKtvJvH_whjya-zq1EECm0F10kwFqnE/view?usp=sharing"><b>resume</b></a>
+- My <a href="https://drive.google.com/file/d/1jTb6aMFV01hTOWgLjyREe7KDO1YNN48v/view?usp=sharing"><b>resume</b></a>
 
 <br>
 
