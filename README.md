@@ -67,6 +67,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/prakharrai1609/prakharrai1609/output/snake.svg" alt="Snake animation" />
 
 ###
