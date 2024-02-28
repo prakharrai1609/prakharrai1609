@@ -1,71 +1,43 @@
-<h1 align="center">Hey, I'm Prakhar Rai</h1>
-<h4 align="center">Trying to solve the problems in the world using code & coffee ☕️.</h4>
-<h6 align="center">SWE @PhysicsWallah 🦄 • Ex Cisco • Ex Interview Kickstart</h6>
+# Prakhar Rai
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakharrai1609&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakharrai1609&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/ft.prakharrai/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:rai.prakhar1609@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/prakharrai1609/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/prakharrai1609" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://linktr.ee/prakharrai1609" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prakharrai1609/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/prakharrai1609)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brightgreen)](https://leetcode.com/prakharrai1609/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rai.prakhar1609@gmail.com)
 
 
-###
+Experienced Software Engineer with a strong background in building scalable web applications and microservices. Proficient in a wide range of technologies including TypeScript, JavaScript, Python, and various frameworks such as React.js, Django, and Nest.js. Skilled in system architecture, optimization, and performance tuning.
+
+### Experience
+
+- **Abnormal Security** (Jan. 2024 – Present)
+  - Successfully migrated SPM product to Micro frontend architecture.
+  - Utilized TypeScript, JavaScript, React.JS, Python, Django, Django Rest Framework.
+
+- **Physics Wallah** (Mar. 2023 – Jan. 2024)
+  - Architected and deployed high-performance Nest.js microservices.
+  - Achieved 300MS latency at P99 for 30,000 RPM throughput.
+  - Integrated payment and KYC flows with I2I in the pw-pay service.
+  - Utilized TypeScript, JavaScript, Nest.js, Node, Express, React, MongoDB, Redis.
+
+- **Interview Kickstart** (Sept. 2022 – Feb. 2023)
+  - Developed features within the 'Global Calendar' app and integrated OpenAI APIs.
+  - Generated over 3000+ articles.
+  - Utilized Python, Django, Django REST framework, React.js, JavaScript, TypeScript.
+
+- **Cisco** (Jun. 2022 – Jul. 2022)
+  - Implemented Proof of Concept for "Remote Console Access."
+  - Developed automation scripts for batch processing.
+  - Utilized Linux, C, C++, Bash Scripting.
+
+### Skills
+
+- **Languages:** TypeScript, JavaScript, Python, C/C++
+- **Frameworks/Libraries:** React.js, Django, Nest.js, Node.js
+- **Databases:** MongoDB, Redis
+- **Tools/Platforms:** Git, Docker
+- **Other:** System Architecture, Performance Optimization
+
+I'm always open to colaborate on new and interesting projects!
+
+Cheers! 🥂
